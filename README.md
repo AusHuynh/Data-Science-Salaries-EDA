@@ -7,5 +7,5 @@ The object of this project is to explore data science salaries based on experien
 ### Python Libraries Utilized
 1. pandas
 2. seaborn
-3. plotyly.express
-4. plotyly.graph_objects
+3. plotly.express
+4. plotly.graph_objects
