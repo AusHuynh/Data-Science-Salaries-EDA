@@ -2,4 +2,10 @@
 
 ## Project Description
 
-The object of this project is to explore data science salaries base on experience level and employment type. This project provide data visualization mainly foucing on the creation of pie chart, bar, and box plots. Python libraries utilized include numpy, pandas, seaborn, plotyly.express, and plotyly.graph object. 
+The object of this project is to explore data science salaries based on experience level and employment type. This project provides data visualization mainly focusing on the creation of pie chart, bar, and box plots. 
+
+### Python Libraries Utilized
+1. Pandas
+2. Seaborn
+3. plotyly.express
+4. plotyly.graph_objects
